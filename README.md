@@ -12,3 +12,4 @@ cd . <br/>
 # Contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # LICENCE
+[MIT](https://choosealicense.com/licenses/mit)
